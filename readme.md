@@ -33,7 +33,7 @@ __pycache__/
 1. **Clone the repository** (or download the files):
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/HasnainDevMaster/Project_01_unit_converter_app
    cd Project_01_unit_converter_app
    ```
 
